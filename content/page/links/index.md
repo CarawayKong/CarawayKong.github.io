@@ -11,7 +11,7 @@ links:
   - title: typoverflow
     description: 强化学习之父潇潇先生
     website: https://blog.gaocx.io/
-    image: https://blog.gaocx.io/img/miniq_hu5476619029684186131.png
+    image: https://blog.gaocx.io/img/miniq_hu_fbc2c9c6e06c6fe5.png
   - title: chariri
     description: 著名业余无线电爱好者cj先生
     website: https://chariri.moe/
@@ -36,7 +36,10 @@ links:
     description: 著名调酒师sbw先生
     website: https://tilnel.github.io/
     image: https://tilnel.github.io/img/avatar.png
-
+  - title: 水龙之魂
+    description: 水龙之魂Official
+    website: https://blog.azifan.club/
+    image: [https://tilnel.github.io/img/avatar.png ](https://blog.azifan.club/)
 ---
 
 以下是友人们的链接
