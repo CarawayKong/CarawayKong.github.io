@@ -13,7 +13,7 @@ links:
     website: https://blog.gaocx.io/
     image: https://blog.gaocx.io/img/miniq_hu_fbc2c9c6e06c6fe5.png
   - title: chariri
-    description: 著名业余无线电爱好者cj先生
+    description: 业余无线电爱好者cj先生
     website: https://chariri.moe/
     image: https://s3.bmp.ovh/imgs/2022/07/12/83115cc01614032b.png
   - title: Meursault
@@ -29,11 +29,11 @@ links:
     website: https://www.minaduki.moe/
     image: 
   - title: riverclouds
-    description: 著名魔术师zjy先生
+    description: 魔术师zjy先生
     website: https://riverclouds.net/
     image: https://s3.bmp.ovh/imgs/2024/02/10/02bd6754328be00d.jpg
   - title: Tilnel
-    description: 著名调酒师sbw先生
+    description: 调酒师sbw先生
     website: https://tilnel.github.io/
     image: https://tilnel.github.io/img/avatar.png
   - title: 水龙之魂
