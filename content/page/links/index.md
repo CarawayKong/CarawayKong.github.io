@@ -17,9 +17,9 @@ links:
     website: https://chariri.moe/
     image: https://s3.bmp.ovh/imgs/2022/07/12/83115cc01614032b.png
   - title: Meursault
-    description: 🐟女士的豆瓣
-    website: https://www.douban.com/people/168503201/?_i=7657688nT9I-hF
-    image: https://img2.doubanio.com/icon/ul168503201-1.jpg
+    description: 🐟女士
+    website: https://yuruiii.github.io/
+    image: https://yuruiii.github.io/img/avatar.jpg
   - title: jjppp
     description: 洁癖王洁癖
     website: https://jjppp.github.io/
