@@ -39,7 +39,7 @@ links:
   - title: 水龙之魂
     description: 水龙之魂Official
     website: https://blog.azifan.club/
-    image: https://tilnel.github.io/img/avatar.png
+    image: https://blog.azifan.club/wp-content/uploads/2025/03/1742718553-e0a5740b-ff92-4e44-912f-84e1ae3f87c6-e1742718627292.png
 ---
 
 以下是友人们的链接
