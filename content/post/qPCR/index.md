@@ -19,7 +19,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 ---
 
 **组织来源**  
-准备材料：Trizol，氯仿，DEPC 水
+准备材料：Trizol，氯仿，DEPC 水，异丙醇，无水乙醇
 1. 组织匀浆器底座 -20℃ 提前预冷。
 2. 离心机提前打开，4℃ 预冷。根据样本量，标记离心管，每管加入 1 ml Trizol。<mark>（有毒，通风橱中操作）</mark>
 3. 每管加入 2 颗钢珠，在组织匀浆器中 65 Hz 研磨 120 s，涡旋混匀，静置 10 min。
