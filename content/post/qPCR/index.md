@@ -52,7 +52,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 注：4× Hifair® Ⅲ SuperMix plus 含有 gDNA digester 抑制剂。
 
 1. 残留基因组 DNA 去除   
-    + 在 RNase free 离心管中配制如下混合液，用移液器轻轻吹打混匀。42℃ 水浴孵育 2 min。
+    + 在 RNase free 离心管中配制如下混合液，用移液器轻轻吹打混匀。42℃ 孵育 2 min。
   
     |组分|使用量|
     |:---:|:---:|
