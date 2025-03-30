@@ -1,7 +1,7 @@
 ---
 title: 十大歌星赛现形记
 description: 过程与思考
-date: 2025-3-30:00:00+0000
+date: 2025-03-30:00:00+0000
 categories:
     - Blog
 tags:
