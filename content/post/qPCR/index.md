@@ -80,7 +80,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 准备的材料：试剂盒、cDNA原液、qPCR 96 孔板、封板膜
 
-1. 于超净台内在冰上配置反应体系<mark>（96 孔板可卡在底座上，底座置于冰上）</mark>。  
+1. 在冰上配置反应体系<mark>（96 孔板可卡在底座上，底座置于冰上）</mark>。  
   
 |组分|体积 (μl)|体积 (μl)|终浓度|
 |:---:|:---:|:---:|:---:|
@@ -91,8 +91,8 @@ weight: 1       # You can add weight to some posts to override the default sorti
 |无菌超纯水|to 50|to 20|-|  
 
 + cDNA 原液体积一般不超过反应总体积的 1/10
-+ 先将体系配好<mark>（留好余量，例如配每孔 20 μl 体系，加 19 μl）</mark>并加入 96 孔板，再点加 cDNA 在孔板上缘，点板完成后用膜封板，再使用离心机甩板。
-+ 定量实验需要至少 3 个 生物学重复
++ 先将体系配好<mark>（留好余量，例如配每孔 20 μl 体系，加 19 μl）</mark>，与复孔 cDNA 预混分装，点板完成后用膜封板，不要触碰到膜中间。再使用离心机甩板，1000 rpm，1 min。
++ 定量实验需要至少 2 个 生物学重复
 + 需要设置内参
   
 2. 上机  
