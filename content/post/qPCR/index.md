@@ -43,7 +43,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 ---
 
 ## 逆转录合成 cDNA 第一链  
-**使用 翌圣 Hifair® Ⅲ 1st Strand cDNA Synthesis SuperMix for qPCR 试剂盒**  
+**使用 翌圣 Hifair<sup>®</sup> Ⅲ 1st Strand cDNA Synthesis SuperMix for qPCR 试剂盒**  
 
 试剂盒组分  
 + RNase-free H<sub>2</sub>O
@@ -76,7 +76,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 ---
 
 ## qPCR
-**使用翌圣 Hieff UNICON® Universal Blue qPCR SYBR Green Master Mix 试剂盒** 
+**使用翌圣 Hieff UNICON<sup>®</sup> Universal Blue qPCR SYBR Green Master Mix 试剂盒** 
 
 准备的材料：试剂盒、cDNA原液、qPCR 96 孔板、封板膜
 
