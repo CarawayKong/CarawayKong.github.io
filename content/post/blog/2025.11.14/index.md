@@ -2,7 +2,6 @@
 title: 爱情是一种集体无意识
 description: 杨德昌导演代表作观后感想
 date: 2025-11-15 00:00:00+0000
-image: cover.jpg
 categories:
     - Blog
 tags:
