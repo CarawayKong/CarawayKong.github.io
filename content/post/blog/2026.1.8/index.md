@@ -1,7 +1,7 @@
 ---
 title: 空不异色
 description: 写在 2025 年结束之后
-date: 2026-1-8 00:00:00+0000
+date: 2026-01-08 00:00:00+0000
 categories:
     - Blog
 tags:
