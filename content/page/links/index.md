@@ -11,7 +11,7 @@ links:
   - title: typoverflow
     description: 强化学习之父潇潇先生
     website: https://blog.gaocx.io/
-    image: https://blog.gaocx.io/img/miniq_hu_fbc2c9c6e06c6fe5.png
+    image: https://blog.gaocx.io/img/miniq_hu_e99a7eeaf9b0231.png
   - title: chariri
     description: 业余无线电爱好者cj先生
     website: https://chariri.moe/
