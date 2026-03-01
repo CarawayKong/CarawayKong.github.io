@@ -27,7 +27,7 @@ links:
   - title: minaduki
     description: KZ
     website: https://www.minaduki.moe/
-    image: https://www.minaduki.moe/wp-content/uploads/2021/05/cropped-head-1.png
+    image: KZ.jpg
   - title: riverclouds
     description: 魔术师zjy先生
     website: https://riverclouds.net/
