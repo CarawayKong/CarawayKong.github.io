@@ -27,7 +27,7 @@ links:
   - title: minaduki
     description: KZ
     website: https://www.minaduki.moe/
-    image: KZ.jpg
+    image: https://raw.githubusercontent.com/CarawayKong/CarawayKong.github.io/refs/heads/master/content/page/links/KZ.jpg
   - title: riverclouds
     description: 魔术师zjy先生
     website: https://riverclouds.net/
