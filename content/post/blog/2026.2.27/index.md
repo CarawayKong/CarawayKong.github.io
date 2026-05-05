@@ -16,9 +16,9 @@ weight: 1
 <center>沾衣泥履绵绵雨，</center>
 <center>洛思旅意谁堪叙。</center>
 <center>路上更无人，</center>
-<center>翳翳日已昏。</center>
+<center>冥冥日已昏。</center>
 <br>
 <center>朱弦何处觅，</center>
-<center>青眼常不睇。</center>
+<center>青眼不常睇。</center>
 <center>独爱泛菱洲，</center>
 <center>雩归人倚楼。</center>
