@@ -7,7 +7,7 @@ image: cover.jpg
 categories:
     - Blog
 tags:
-    - Tour
+    - Essay
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 # 逃离工作，自由而无用之行
