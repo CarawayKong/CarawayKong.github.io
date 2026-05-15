@@ -14,5 +14,5 @@ weight: 1
 <br>
 <center>笔法难窥公府门，残碑磨泐辨遗痕。</center>
 <center>文皇喜赚临河序，太尉痴开翰墨坟。</center>
-<center>一自高清观渺末，更凭直播拨长灯。</center>
+<center>一自高清观渺末，更凭直播拨迷昏。</center>
 <center>古贤有感应无憾，方寸荧屏示后昆。</center>
